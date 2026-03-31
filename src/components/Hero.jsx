@@ -1,6 +1,4 @@
-import React from "react";
-import Banner from "../assets/banner"
-
+import Banner from "../assets/banner.png"
 const Hero = () => {
   return (
     <section className="max-w-7xl mx-auto px-5 py-16 grid md:grid-cols-2 gap-10 items-center">
