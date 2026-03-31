@@ -1,3 +1,4 @@
+import React from "react";
 const Navbar = ({ cartCount }) => {
   return (
     <nav className="bg-white shadow sticky top-0 z-50">
