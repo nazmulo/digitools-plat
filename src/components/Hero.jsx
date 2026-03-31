@@ -1,4 +1,5 @@
 import Banner from "../assets/banner.png"
+
 const Hero = () => {
   return (
     <section className="max-w-7xl mx-auto px-5 py-16 grid md:grid-cols-2 gap-10 items-center">
@@ -32,7 +33,7 @@ const Hero = () => {
 
       <div>
         <img
-          src="{Banner}"
+          src={Banner}
           alt="Digital Tools"
           className="rounded-2xl shadow-lg w-full h-[400px] object-cover"
         />
