@@ -37,7 +37,7 @@ const ProductCard = ({ product, addToCart, cart }) => {
 
       <button
         onClick={() => addToCart(product)}
-        className="w-full bg-purple-600 hover:bg-purple-700 text-white py-3 rounded-full font-semibold"
+        className="w-full bg-linear-to-r from-[#4F39F6] to-[#9514FA] hover:bg-purple-700 text-white py-3 rounded-full font-semibold"
       >
         {cart.find((item) => item.id === product.id)
           ? "Added to Cart ✓"

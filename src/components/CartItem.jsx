@@ -1,5 +1,3 @@
-import React from "react";
-
 const CartItem = ({ item, removeFromCart }) => {
   return (
     <div className="bg-white p-5 rounded-2xl border flex justify-between items-center">

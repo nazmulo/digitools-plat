@@ -1,13 +1,11 @@
-import React from "react";
-
 const Footer = () => {
   return (
     <>
-      <section className="bg-gradient-to-r from-purple-700 to-pink-600 text-white py-20 text-center">
+      <section className=" bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white py-20 text-center">
         <div className="max-w-3xl mx-auto px-5">
           <h2 className="text-4xl font-bold mb-4">Ready To Transform Your Workflow?</h2>
           <p className="text-purple-100 mb-8">
-            Join thousands of professionals who already use DigiTools.
+            Join thousands of professionals who are already using Digitools to work smarter.Start your free trial today.
           </p>
 
           <div className="flex justify-center gap-4 flex-wrap">
@@ -23,6 +21,9 @@ const Footer = () => {
             >
               View Pricing
             </a>
+            <p className="text-purple-100 mb-8">
+            14-day free trial • No credit card required • Cancel anytime
+          </p>
           </div>
         </div>
       </section>
@@ -56,6 +57,7 @@ const Footer = () => {
             </ul>
           </div>
 
+          
           <div>
             <h4 className="text-white font-semibold mb-4">Legal</h4>
             <ul className="space-y-2 text-slate-400">
@@ -65,6 +67,8 @@ const Footer = () => {
             </ul>
           </div>
         </div>
+
+        
 
         <div className="text-center text-slate-500 mt-12 border-t border-slate-800 pt-6">
           © 2026 DigiTools. All rights reserved.

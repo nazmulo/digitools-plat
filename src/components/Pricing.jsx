@@ -5,7 +5,7 @@ const Pricing = () => {
     <section id="pricing" className="max-w-7xl mx-auto px-5 py-20">
       <div className="text-center mb-12">
         <h2 className="text-4xl font-bold">Simple, Transparent Pricing</h2>
-        <p className="text-gray-500 mt-3">Choose the plan that fits your needs.</p>
+        <p className="text-gray-500 mt-3">Choose the plan that fits your needs. Upgrade or downgrade anytime.</p>
       </div>
 
       <div className="grid md:grid-cols-3 gap-8">
@@ -21,12 +21,12 @@ const Pricing = () => {
             <li>✅ Community support</li>
             <li>✅ 1 project per month</li>
           </ul>
-          <button className="w-full mt-8 bg-purple-600 text-white py-3 rounded-full font-semibold">
+          <button className="w-full mt-8 bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white py-3 rounded-full font-semibold">
             Get Started Free
           </button>
         </div>
 
-        <div className="bg-gradient-to-br from-purple-700 to-pink-600 text-white p-8 rounded-2xl shadow-xl">
+        <div className="bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white p-8 rounded-2xl shadow-xl">
           <p className="inline-block bg-yellow-300 text-black px-3 py-1 rounded-full text-xs font-bold mb-4">
             Most Popular
           </p>
@@ -58,7 +58,7 @@ const Pricing = () => {
             <li>✅ Dedicated support</li>
             <li>✅ Custom branding</li>
           </ul>
-          <button className="w-full mt-8 bg-purple-600 text-white py-3 rounded-full font-semibold">
+          <button className="w-full mt-8 bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white py-3 rounded-full font-semibold">
             Contact Sales
           </button>
         </div>
