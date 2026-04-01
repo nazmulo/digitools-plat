@@ -1,16 +1,72 @@
-# React + Vite
+# 🚀 DigiTools | Digital Tools Buying Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Digital Tools Buying Website** built with **React.js**.  
+This project allows users to browse premium digital products, add items to the cart, remove products and complete checkout with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Project
+🔗 **Live Link:** https://digitools-plat.netlify.app/
 
-## React Compiler
+## 📂 Repository
+🔗 **GitHub Repo:** https://github.com/nazmulo/digitools-plat
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**DigiTools** is a simple e-commerce style web application for buying digital products such as AI tools, design packs, templates, productivity tools and more.
+
+The website includes:
+- A modern hero section
+- Product and cart toggle system
+- Add to cart and remove cart functionality
+- Checkout system with toast notifications
+- Fully responsive layout
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **React Toastify**
+- **Vite**
+- **Local Assets (Images & Icons)**
+
+---
+
+## ✨ Main Features
+
+### 1️⃣ Product & Cart Toggle
+Users can easily switch between the **Products section** and the **Cart section** using toggle buttons.
+
+### 2️⃣ Smart Cart Functionality
+Users can:
+- Add products to cart
+- Remove selected products
+- View total selected products
+- View total price
+- Clear cart using checkout button
+
+### 3️⃣ Beautiful Responsive UI
+The website is fully responsive and designed to work smoothly on:
+- Mobile 📱
+- Desktop 🖥️
+
+---
+
+## 📸 Sections Included
+
+- ✅ Navbar
+- ✅ Hero Section
+- ✅ Stats Section
+- ✅ Products Section
+- ✅ Cart Section
+- ✅ Steps Section
+- ✅ Pricing Section
+- ✅ Footer
+
+---
+
